@@ -1,9 +1,9 @@
 Project: Dreamscape Tours – Travel Agency Website
 Dreamscape Tours is a visually engaging and informative website built using HTML and CSS, designed for a fictional travel agency. The site promotes travel packages, shares client testimonials, and offers gift card options for users.
 
-🔧 Technologies used: HTML, CSS
+Technologies used: HTML, CSS
 
-✨ Key Features:
+Key Features:
 
 Homepage with eye-catching design and promotional content
 
